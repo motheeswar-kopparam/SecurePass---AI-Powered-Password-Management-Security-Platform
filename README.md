@@ -1,5 +1,5 @@
 # SecurePass---AI-Powered-Password-Management-Security-Platform
-SecurePass is an advanced password management and security platform designed to ensure the protection of user credentials through AI-powered password generation, real-time strength analysis, and secure user authentication. This project utilizes a modern tech stack, including React, TypeScript, and Tailwind CSS for the frontend, ensuring a seamless and responsive user experience across all devices.
+" SecurePass is an advanced password management and security platform designed to ensure the protection of user credentials through AI-powered password generation, real-time strength analysis, and secure user authentication. This project utilizes a modern tech stack, including React, TypeScript, and Tailwind CSS for the frontend, ensuring a seamless and responsive user experience across all devices.
 
 Key features include:
 
@@ -14,4 +14,4 @@ Technologies used:
 Frontend: React, TypeScript, Tailwind CSS
 Backend: Node.js, Express.js, MongoDB
 Security: JWT authentication, bcrypt (password hashing), AI-driven algorithms for password generation and strength evaluation
-This project showcases expertise in full-stack development, security best practices, and modern UI/UX design.
+This project showcases expertise in full-stack development, security best practices, and modern UI/UX design. "
